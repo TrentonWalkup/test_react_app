@@ -87,7 +87,7 @@ const ContactContainer = () => {
           </span>
           <span>
             <i className='far fa-envelope'></i>
-            acme.company.gmail.com
+            acme.company@gmail.com
           </span>
         </div>
 
